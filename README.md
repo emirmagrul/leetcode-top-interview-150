@@ -1,2 +1,14 @@
-# leetcode-top-interview-150
-LeetCode Top Interview 150 çalışma planındaki soruların çözümleri ve notlarım.
+# LeetCode Top Interview 150
+
+Bu depo, LeetCode tarafından hazırlanan **"Top Interview 150"** çalışma planındaki soruların çözümlerini içermektedir.
+
+## İçerik
+Listedeki 150 popüler mülakat sorusunun veri yapıları ve algoritma temelli çözümleri yer almaktadır.
+
+## İlerleme
+- **Tamamlanan:** 1
+- **Kalan:** 149
+- **Hedef:** %100
+
+---
+*Çözümler düzenli olarak eklenmektedir.*
