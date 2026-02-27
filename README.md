@@ -6,8 +6,8 @@ Bu depo, LeetCode tarafından hazırlanan **"Top Interview 150"** çalışma pla
 Listedeki 150 popüler mülakat sorusunun veri yapıları ve algoritma temelli çözümleri yer almaktadır.
 
 ## İlerleme
-- **Tamamlanan:** 4
-- **Kalan:** 146
+- **Tamamlanan:** 5
+- **Kalan:** 145
 - **Hedef:** %100
 
 ---
